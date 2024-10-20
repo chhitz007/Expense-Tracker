@@ -21,6 +21,9 @@ User-Friendly Interface: Built with Bootstrap for a responsive and visually appe
 # Tech Stack
 
 Backend: Flask
+
 Database: MongoDB
+
 Frontend: HTML, CSS (with Bootstrap)
+
 Visualization: Plotly
