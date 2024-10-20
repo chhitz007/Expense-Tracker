@@ -1,0 +1,19 @@
+body {
+    background-image: url("../images/bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Arial, sans-serif;
+    color: #fff;
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.7);  /* Makes the background a bit transparent */
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+h1,h2, h3, h4 {
+    color: #fff;
+}
